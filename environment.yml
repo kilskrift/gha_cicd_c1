@@ -1,4 +1,4 @@
 channels:
   - defaults
 dependencies:
-  - pandas=1.4.0
+  - pandas=1.5.3 # https://anaconda.org/anaconda/pandas/files?page=3&version=1.5.3
