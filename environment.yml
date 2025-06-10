@@ -2,4 +2,4 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - pandas=1.5.3 # https://anaconda.org/anaconda/pandas/files?page=3&version=1.5.3
+  - pandas=1.5 # https://anaconda.org/anaconda/pandas/files?page=3&version=1.5.3
